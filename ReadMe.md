@@ -17,7 +17,7 @@ To run the application, you have to define the environment variables, default va
 git init
 # create a github repository  github.com/new
 
-git remote add origin https://github.com/Honest67924/bank-lib.git
+git remote add origin https://github.com/Super-Phantoms/Golang-Mux-PostgreSql-.git
 # add all files inside this project
 git add .
 git commit -m "extracted the error and logger from banking api"
